@@ -23,3 +23,5 @@ Plan and be ready to discuss how this could be implemented into a Jenkins build
 - You can use any language or tools you would like
 - Scripts should tell the user what they are doing
 - Add comments to scripts where helpful
+- Limit time spent on the task to 2-3 hours
+- Anything you don't have a chance to complete mention in the readme and we can discuss more
