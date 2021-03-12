@@ -2,7 +2,7 @@
 
 Requires NodeJS LTS and Yarn
 NodeJS: https://nodejs.org/en/
-Yarn: https://classic.yarnpkg.com/en/docs/install/#mac-stable
+Yarn: https://classic.yarnpkg.com/en/docs/install/
 
 ## Available Scripts
 
